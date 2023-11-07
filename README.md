@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saud</h1>
+<h1 align="left">Hi 👋, I'm Saud</h1>
 <p align="left">
 I'm a highly skilled Programmer with a strong background in computer science and software engineering. My passion for technology is complemented by my dedication to education, having served as a Programming Lecturer. I have hands-on experience with a range of programming languages, including C++, Java, Kotlin, Swift, JavaScript, HTML, and CSS. My problem-solving skills and proficiency in tools like Eclipse, IntelliJ, STS, Android Studio, and Xcode have been honed through various projects.
 I'm fluent in multiple languages, including Arabic, Japanese, and English, which enhances my ability to work in diverse, multicultural environments. and continually expand my knowledge, including coursework in Google Cloud, AWS, and cybersecurity.
